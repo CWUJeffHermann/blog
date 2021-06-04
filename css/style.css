@@ -134,7 +134,14 @@ html {
     text-align: left;
 
 }
-   
+ 
+.slash {
+text-decoration-line: line-through;
+width: 10rem;
+height: 10rem;
+color: black;
+text-transform: uppercase;
+}  
 
 
 
