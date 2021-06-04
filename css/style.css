@@ -75,27 +75,6 @@ figcaption {
     background-color: white;
 }
 
-nav {
-    float: left;
-    width:11.25rem;
-}
-
-footer {
-    clear: both;
-    margin-top:1.5rem;
-}
-
-section, aside, nav, footer {
-  padding: .5rem;
-}
-
-/* header and footer */
-
-header, footer {
-  border-top: .125rem solid #33658A;
-  border-bottom: .125rem solid #33658A;
-}
-
 
 
 
