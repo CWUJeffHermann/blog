@@ -151,11 +151,10 @@ html {
     }
     
     p {
-    font-size: .75rem;
-    letter-spacing: .03125rem;
-    word-spacing: .125rem;
-    text-indent: 1.5rem;
-    }
+    font-family: "roboto", Verdana, sans-serif;
+    text-align: left;
+
+}
    
 
 
