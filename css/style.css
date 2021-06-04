@@ -81,8 +81,8 @@ figcaption {
 /* Imported Typfaces */
 @font-face {
    @font-face {
-    font-family:"roboto";
-    src: url(../fonts/sans-serif/roboto-regular.ttf) format('truetype');
+    font-family:"lato";
+    src: url(../fonts/sans-serif/lato-regular.ttf) format('truetype');
     font-weight:normal;
     font-style:normal;
 }
@@ -105,11 +105,11 @@ figcaption {
 
 /* Typography Styles */
 html { 
-    font-family:"roboto", Verdana, sans-serif;    
+    font-family:"lato", Verdana, sans-serif;    
     }
     
     h1 {
-    font-family:"roboto", Verdana, sans-serif;
+    font-family:"lato", Verdana, sans-serif;
     font-size: 3rem;
     font-weight: bold;
     text-align: center;
@@ -117,7 +117,7 @@ html {
     
     }
     h2 {
-    font-family:"roboto", Verdana, sans-serif;
+    font-family:"lato", Verdana, sans-serif;
     font-size: 1.5rem;
     text-align: left;
     margin-top: 3rem;
@@ -125,13 +125,13 @@ html {
 }
     
     h3 {
-    font-family: "roboto", Verdana, sans-serif;
+    font-family: "lato", Verdana, sans-serif;
     font-size: 1.5rem;
     text-align: left;
     }
     
     p {
-    font-family: "roboto", Verdana, sans-serif;
+    font-family: "lato", Verdana, sans-serif;
     text-align: left;
 
 }
@@ -175,7 +175,7 @@ a {
     text-decoration: none;
     }
 button {
-    font-family:"roboto", Verdana, sans-serif;
+    font-family:"lato", Verdana, sans-serif;
     font-size: 2rem;
     text-align: center;
     border: 2rem black;
