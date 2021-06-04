@@ -149,12 +149,14 @@ html {
     font-weight: bold;
     text-align: center;
     margin-bottom: 5rem;
-    
-    h2 {
-    letter-spacing: .125rem;
-    font-family:Josefinslab, serif;
-    font-size: 1.5rem;
     }
+    h2 {
+    font-family:"roboto", Verdana, sans-serif;
+    font-size: 1.5rem;
+    text-align: left;
+    margin-top: 3rem;
+    margin-left: 4rem;
+}
     
     h2 + p {
     font-size: .75rem;
