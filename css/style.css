@@ -46,20 +46,6 @@
         */
 
 
-/* ------ START WRITING YOUR CODE BELOW ------ */
-{
-    box-sizing: border-box;
-}
-
-html {
-    font-size:16px;
-}
-
-body {
-    margin: 1.5rem auto;
-    width:90%;
-    min-width:56.25rem;
-}
 
 /* Layout */
 
@@ -140,7 +126,7 @@ header, footer {
 
 /* Typography Styles */
 html { 
-    font-family:Montserrat, sans-serif;    
+    font-family:"roboto", Verdana, sans-serif;    
     }
     
     h1 {
@@ -158,11 +144,10 @@ html {
     margin-left: 4rem;
 }
     
-    h2 + p {
-    font-size: .75rem;
-    letter-spacing: .03125rem;
-    word-spacing: .125rem;
-    text-indent: 1.5rem;
+    h3 {
+    font-family: "roboto", Verdana, sans-serif;
+    font-size: 1.5rem;
+    text-align: left;
     }
     
     p {
