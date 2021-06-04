@@ -178,31 +178,19 @@ a {
     outline: none;
     text-decoration: none;
     }
+button {
+    font-family:"roboto", Verdana, sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    border: 2rem black;
+    background-color: navy;
+    color: white;
+    margin-top: 1 rem;
+}
 
 
 
 
-
-/* List Styling */
-ul {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    margin-left: 0;
-    margin-right: 0;
-    list-style-type: square;
-    }
-    
-    ol {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    margin-left: 0;
-    margin-right: 0;
-    list-style-type: lowercase letter;
-    }
-    
-    .long-list a:hover {
-    text-transform: uppercase;
-    }
 
 
 
