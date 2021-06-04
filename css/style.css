@@ -142,6 +142,14 @@ html {
 	
 }
 
+.slash {
+text-decoration-line: line-through;
+width: 10rem;
+height: 10rem;
+color: black;
+text-transform: uppercase;
+}
+
 
 
 
@@ -172,7 +180,9 @@ button {
     color: white;
     margin-top: 1 rem;
 }
-
+.links {
+   float: right;
+   text-align: right;
 
 
 
@@ -206,7 +216,10 @@ nav a{
 footer {
     text-align: center;
     }
-
+.copyright {
+   float: left;
+   text-align: left;
+}
 
 
 
